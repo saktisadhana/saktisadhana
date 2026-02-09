@@ -1,6 +1,13 @@
-# About Me
-An undergraduate IT Student @ Institut Teknologi Sepuluh Nopember interested in the field of Game Development & Cybersecurity. Currently documenting my journey through writeups and technical challenges.
+<div align="center">
 
+# About Me ฅ(•- •マ
+
+<div align="justify">
+  
+An undergraduate IT Student @ Institut Teknologi Sepuluh Nopember interested in the field of Game Development & Cybersecurity. Currently documenting my journey through writeups and technical challenges ㅤ/ᐠ - ˕ -マ.
+
+<div align="justify">
+  
 # Socials
 You can contact me thru here!
 <p align="left">
@@ -12,6 +19,8 @@ You can contact me thru here!
 </p>
 
 # GitHub Stats
+<div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=saktisadhana&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=saktisadhana&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saktisadhana&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
