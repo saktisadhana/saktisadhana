@@ -13,9 +13,10 @@ An undergraduate IT Student @ Institut Teknologi Sepuluh Nopember interested in 
 # ~(=^‥^)ノ Socials 
 
 <div align="justify">
+  
 You can contact me thru here!
 
-<p align="left">
+<p align="center">
   <a href="https://instagram.com/sakti.putu"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   &nbsp;&nbsp;
   <a href="https://x.com/sakti_putu"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
